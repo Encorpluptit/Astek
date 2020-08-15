@@ -1,0 +1,3 @@
+# programmation-competitive
+
+# Contributors
