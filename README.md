@@ -15,7 +15,7 @@ les asteks des différentes années.
     git checkout -b name-of-the-talk
 ```
 
-Une fois que le talk/WS est prêt vous pouvez push master.
+Une fois que le talk/WS est prêt vous pouvez merge sur master.
 
 ### Ajouter un talk/workshop existant
 
@@ -23,3 +23,10 @@ Une fois que le talk/WS est prêt vous pouvez push master.
     cd [talks | workshop]
     git submodule add link-to-repo
 ```
+
+## Structure d'un dossier
+
+    Il devrait au minimum contenir un README avec les contributeurs du Talk/WS à la fin,
+    ainsi que les ressources utilisées (bibliographie)
+    Le README peut servir de transcript pour les Talks et de sujet pour les Workshops.
+    Autres que ces 2 petits points, faites ce que vous voulez dans votre organisation :).
