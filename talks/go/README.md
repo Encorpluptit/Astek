@@ -6,8 +6,8 @@
 ### Histoire du Go:
  - Créateurs :
     - Robert Griesemer
-    - Rob Pike
-    - Ken Thomson
+    - Rob Pike (UTS / Unix)
+    - Ken Thomson (UTF8 / Unix / BSD)
  - Pourquoi le langage a été créé :
     - They Hate C++ (good guys, wink wink tek, plazza)
      - Idées Directrices :
