@@ -18,7 +18,8 @@
  -  
 
 ### Commencer En Go :
- - GoTour
+ - GoTour.
+ - Go Playground.
  - Go Docs.
 
 ## Principes du langage.
@@ -109,7 +110,9 @@ Gif Wiki GoUsers
 http://golang/go/wiki/gousers
 ```
 
-### Go2 (2021-2022)
+### Go2 (2021-2022) (Go2PlayGround)
  - Generics
 
 # Contributors
+ - Damien Bernard
+ - Le Connard
