@@ -115,4 +115,5 @@ http://golang/go/wiki/gousers
 
 # Contributors
  - Damien Bernard
- - Le Connard
+ - Quentin Veyrenc
+ - Mouad
