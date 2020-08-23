@@ -19,9 +19,9 @@
 
 ### Commencer En Go :
  - GoTour
- - Milliards de Tuto.
+ - Go Docs.
 
-## Principes du langages.
+## Principes du langage.
 
 ### Syntaxe:
  - Proche du C
@@ -29,8 +29,6 @@
  - Boucle for
  - Conditions
  - Vars / Const / Enums (iota notation)
- - Append
- - Variadic Arguments
 
 ### Types:
  - Ints (int uints, uintptr)
@@ -45,36 +43,53 @@
  - Ex: Stringer
  - Ex: Perimeter and Area
 
-### High-Order Function :
- - Functions used as Values
- - Variables insides Functions
-
 ### Memory Management:
  - Pointeurs
  - Array / Slices
  - make function
  - Garbage collector
  - 
+ 
+### Variadic Arguments:
+ - Variadic Arguments
+ - Append
+
+
+### High-Order Function :
+ - Functions used as Values
+ - Variables insides Functions
 
 ### Concurrency:
  - Go Routine
  - WaitGroup
  - Channels
+
  
 ## Tools:
-
+ 
 ### Integrated Tools:
  - Go Fmt
  - Test
  - Benchmark
+
+### Integrated Packages:
+ - Math
+ - Log
+ - Image
+ - net (http, smtp, ...) / Html 
+ - Encoding/Decoding
+ - Crypto (sha512, ...) / Hash
+ - Debug (Elf, Dwarf, ...)
+ - Database (sql)
+ - Compress / Archive
+ - ...
  
 ### Utils Third Party:
- - Encoding/Decoding over networks
- - Gui Packages (go-qt, go-gtk)
- - Viper (Config Tool)
- - Cobra (CLI tool)
- - GopherJS
-Much Much more
+ - Gui Packages (go-qt, go-gtk, ...)
+ - Viper (Config)
+ - Cobra (CLI)
+ - GopherJS 
+ - Much Much more ...
 
 ### Utilisation Professionnelle:
  - Twitch
