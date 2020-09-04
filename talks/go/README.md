@@ -15,7 +15,7 @@
         - Rapidité de build
         - Multi Threading simple et sécurisé
  - De quand à quand (2007 à mtn, par Google, recherches à la base)
- -  
+ -
 
 ### Commencer En Go :
  - GoTour.
@@ -33,11 +33,11 @@
 
 ### Types:
  - Ints (int uints, uintptr)
- - Float (32, 64) 
+ - Float (32, 64)
  - Strings and Rune
  - Slices
  - Structures
- - Type 
+ - Type
 
 ### Interfaces :
  - Principe
@@ -49,8 +49,8 @@
  - Array / Slices
  - make function
  - Garbage collector
- - 
- 
+ -
+
 ### Variadic Arguments:
  - Variadic Arguments
  - Append
@@ -65,9 +65,9 @@
  - WaitGroup
  - Channels
 
- 
+
 ## Tools:
- 
+
 ### Integrated Tools:
  - Go Fmt
  - Test
@@ -77,24 +77,25 @@
  - Math
  - Log
  - Image
- - net (http, smtp, ...) / Html 
+ - net (http, smtp, ...) / Html
  - Encoding/Decoding
  - Crypto (sha512, ...) / Hash
  - Debug (Elf, Dwarf, ...)
  - Database (sql)
  - Compress / Archive
  - ...
- 
+
 ### Utils Third Party:
  - Gui Packages (go-qt, go-gtk, ...)
  - Viper (Config)
  - Cobra (CLI)
- - GopherJS 
+ - GopherJS
  - Much Much more ...
 
 ### Utilisation Professionnelle:
  - Twitch
  - Netflix
+ - Paypal (All Db Management)
  - Soundcloud
  - Uber
  - Discord
@@ -104,7 +105,7 @@
  - CloudFare
  - Heroku
  - DropBox (certains components du python vers go)
- 
+
 Gif Wiki GoUsers
 ```
 http://golang/go/wiki/gousers
