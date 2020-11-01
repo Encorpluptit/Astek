@@ -26,6 +26,7 @@
 
 ### Syntaxe:
  - Proche du C
+ - Fonctions
  - Variable déclaration
  - Boucle for
  - Conditions
@@ -39,26 +40,26 @@
  - Structures
  - Type
 
-### Interfaces :
- - Principe
- - Ex: Stringer
- - Ex: Perimeter and Area
-
 ### Memory Management:
  - Pointeurs
  - Array / Slices
  - make function
  - Garbage collector
- -
 
-### Variadic Arguments:
+### En vrac:
+ - closure
+ - lambdas
  - Variadic Arguments
- - Append
 
 
 ### High-Order Function :
  - Functions used as Values
  - Variables insides Functions
+
+### Interfaces :
+ - Principe
+ - Ex: Stringer
+ - Ex: Perimeter and Area
 
 ### Concurrency:
  - Go Routine
@@ -72,6 +73,7 @@
  - Go Fmt
  - Test
  - Benchmark
+ - C Compiler
 
 ### Integrated Packages:
  - Math
